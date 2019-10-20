@@ -1,0 +1,46 @@
+Name: Kevin Cao
+Date: 10/20/2019
+Project: 05-Space-shooter
+Peer's repository: ddredmon/05-Space-shooter-1
+
+
+
+What is something you learned by reviewing your peer's project?
+
+I learned about making better docstrings by also including descriptions for
+each of the parameters.
+ 
+
+What is something you saw in your peer's project that you would like to apply
+to your own programming projects?
+
+I think the documentation was well done, and will be sure to include more
+details in my docstrings in the future. 
+
+What suggestions would you have for your peer to improve his/her code?
+
+I would recommend to also kill() bullets that have left the screen, just to
+save on memory. 
+
+What could have been clearer or better commented?
+
+The comments were very well done, nothing wrong to point out. 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+Nope, the comments helped describe what everything was doing. 
+
+Does the repository contain an appropriate LICENSE?
+
+Yes. 
+
+What is something he/she could add to the README.md to make it more
+descriptive?
+
+Could talk more about any particular mechanics, or how the player can move
+their character. The README acts as a synopsis for the game, but since it's
+GitHub, you could also go into more technical attributes. 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+Well commented and organized. Easy to read.
